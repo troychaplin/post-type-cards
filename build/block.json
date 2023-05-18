@@ -6,11 +6,10 @@
   "title": "Post Type Cards",
   "category": "text",
   "icon": "embed-post",
-  "description": "Example block scaffolded with Create Block tool.",
+  "description": "Custom post type selector",
   "supports": {
     "html": false
   },
-  "textdomain": "post-type-cards",
   "editorScript": "file:./index.js",
   "editorStyle": "file:./index.css",
   "style": "file:./style-index.css"
